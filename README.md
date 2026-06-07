@@ -6,4 +6,4 @@ Cách tải game:
 - Nhấp vào thư mục "Game"
 - Sau đó nhấp vào "snake.exe"
 - Sẽ thấy dấu ba chấm ở phía góc phải bên trên, nhấp vào nhấn download 
-- sau khi tải xong nhấp vào file "snake.exe" vừa tải và chơi
+- Sau khi tải xong nhấp vào file "snake.exe" vừa tải và chơi
